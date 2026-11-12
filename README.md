@@ -10,8 +10,8 @@ retouche.
 
 **[Télécharger la dernière version (SlideSync.dmg)](https://github.com/WilliamDesse/SlideSync-releases/releases/latest/download/SlideSync.dmg)**
 
-Ouvrez le .dmg, glissez SlideSync dans Applications, puis lisez le « Lisez-moi » : installation du plugin
-Lightroom et premier diaporama.
+Ouvrez le .dmg et glissez SlideSync dans Applications. Au premier lancement, une visite guidée présente la
+fenêtre ; le plugin Lightroom s'installe en un clic depuis l'app (menu Aide › Utiliser avec Lightroom Classic…).
 
 Toutes les versions : [Releases](https://github.com/WilliamDesse/SlideSync-releases/releases).
 
